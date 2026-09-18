@@ -1,0 +1,8 @@
+bin/
+*.class
+data/*.csv
+data/*.log
+!data/.gitkeep
+.DS_Store
+*.iml
+.idea/
